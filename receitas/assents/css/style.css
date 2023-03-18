@@ -1,0 +1,36 @@
+.cor-fundo{
+    background-color: #292929;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.fundo-laranja{
+    background-color: #fa7f72;
+}
+
+.final{
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.tamanho-card{
+    width: 18rem;
+    height: 30rem;
+}
+
+.img-receitas{
+    height: 200px;
+}
+
+.botao{
+    margin: 20px;
+    border-radius: 20px;
+    border-color: transparent;
+}
+
